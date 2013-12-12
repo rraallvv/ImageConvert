@@ -5,7 +5,7 @@ Extremely simple image conversion CLI tool for OS X.
 
 Example usage
 ```
-imageconvert 1.0 image.jpg image.png
+imageconvert 1.0 image.tiff image.jpg
 imageconvert 0.5 image.psd image.png
 ```
 

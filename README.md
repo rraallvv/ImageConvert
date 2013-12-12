@@ -9,7 +9,7 @@ imageconvert 1.0 image.tiff image.jpg
 imageconvert 0.5 image.psd image.png
 ```
 
-You just need to give it a rescaling factor, an input filename and an output one. It figures out the rest.
+You just need to give it a rescaling factor, an input filename and an output one. OSX's ImageIO figures out the rest.
 
 Why?
 =
